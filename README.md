@@ -1,40 +1,37 @@
 <h1 align="center">Hi, I'm Aditi Rawat 👋</h1>
 
 <p align="center">
-  <b>Software Developer · Python · React · Machine Learning</b>
+  <strong>Software Developer · Python · React · Machine Learning</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/aditi13rawat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aditirawat1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditi13rawat&style=flat-square&color=0A66C2" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering** student at **Graphic Era Hill University, Dehradun** (2022–2026)
+🎓 **B.Tech Computer Science Engineering** student at  
+**Graphic Era Hill University, Dehradun** · 2022–2026
 
-I'm interested in building practical software systems at the intersection of **software development, data, and AI**.
+I enjoy building practical applications using **Python, React, Machine Learning, and data-driven technologies**.
 
-* 🏢 **Winter Trainee — ONGC**, Software Development
-* 🔭 Currently working on a **PDF Question-Answering & RAG System**
-* 🤖 Exploring **Retrieval-Augmented Generation, NLP & Machine Learning**
-* ☁️ Learning **Cloud Computing & modern software development**
-* 📄 Published a **peer-reviewed research paper at ICCICCT 2024**
-* 💡 Interested in **Backend Development, AI/ML & Full-Stack Development**
-* 📫 **Email:** [aditirawat1302@gmail.com](mailto:aditirawat1302@gmail.com)
+- 🏢 **Winter Trainee at ONGC** — Software Development
+- 🔭 Currently building a **PDF Question-Answering & RAG System**
+- 🤖 Interested in **Machine Learning, NLP & RAG**
+- 💻 Interested in **Software Development & Full-Stack Development**
+- 📊 Experience with **Data Analytics & Machine Learning**
+- 📄 Published a **peer-reviewed research paper at ICCICCT 2024**
+- 📫 **aditirawat1302@gmail.com**
 
 ---
 
@@ -42,94 +39,107 @@ I'm interested in building practical software systems at the intersection of **s
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📄 PDF Parsing & RAG System
 
-A document intelligence system capable of processing PDFs and answering questions using hybrid retrieval.
+A document intelligence system that processes PDFs and answers questions using **hybrid retrieval**.
 
 **Features**
+- 🔍 SQLite FTS5 keyword search
+- 🧠 Semantic search
+- 📑 OCR for scanned PDFs
+- 🤖 Retrieval-Augmented Generation
+- 📌 Page-level source attribution
+- 📝 Document summarization
 
-* 🔍 SQLite FTS5 keyword search
-* 🧠 Semantic search
-* 📑 OCR for scanned PDFs
-* 🤖 RAG-based question answering
-* 📌 Page-level source attribution
-* 📝 Document summarization
+**Tech Stack**
 
-**Tech:**
-`Python` `React` `SQLite` `OCR` `Sentence Transformers` `Ollama`
+`Python` `React` `SQLite`  
+`Tesseract OCR` `Sentence Transformers` `Ollama`
+
+<br>
 
 <a href="https://github.com/aditi13rawat/PDF-Parsing-System">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏎️ F1 Grand Prix Winner Prediction
 
 Machine-learning project that predicts Formula 1 Grand Prix winners using qualifying and historical race data.
 
 **Highlights**
+- 🏁 Qualifying-based features
+- 📊 Historical race data
+- 🤖 Machine learning prediction
+- 📈 Data analysis & visualization
 
-* 📊 Historical race analysis
-* 🏁 Qualifying-based features
-* 🤖 Machine learning prediction
-* 📈 Data visualization
+**Tech Stack**
 
-**Tech:**
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter`
+`Python` `Pandas` `NumPy`  
+`Scikit-Learn` `Jupyter`
+
+<br>
 
 <a href="https://github.com/aditi13rawat/F1-GP-WINNER-PREDICTION">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🩺 Breast Cancer Prediction
 
-Machine-learning classification system built using the Wisconsin Diagnostic Breast Cancer dataset.
+Machine-learning classification project using the **Wisconsin Diagnostic Breast Cancer dataset**.
 
 **Highlights**
+- Logistic Regression
+- ~93% test accuracy
+- Data preprocessing
+- Model evaluation
+- Streamlit deployment
 
-* Logistic Regression
-* ~93% test accuracy
-* Data preprocessing
-* Streamlit deployment
+**Tech Stack**
 
-**Tech:**
-`Python` `Scikit-Learn` `Pandas` `Streamlit`
+`Python` `Pandas`  
+`Scikit-Learn` `Streamlit`
+
+<br>
 
 <a href="https://github.com/aditi13rawat/Breast-Cancer-Prediction">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 More Projects
+### 🔗 Chord Distributed Hash Table
 
-I also work with:
+A Python implementation exploring the **Chord Distributed Hash Table (DHT)** algorithm and distributed systems concepts.
 
-* 🔗 Distributed systems
-* ⚛️ React applications
-* 🗄️ SQL & databases
-* ☁️ Cloud technologies
-* 📊 Data analytics
-* 🧩 Full-stack applications
+**Tech Stack**
+
+`Python` `Distributed Systems`
+
+<br><br>
 
 <a href="https://github.com/aditi13rawat?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/More_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -137,73 +147,62 @@ I also work with:
 
 # 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" alt="Frontend Development"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
+</p>
+
+### 🗄️ Databases & SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql" alt="Databases"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-Tesseract-4285F4?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite FTS5"/>
 </p>
 
 ### 📊 Data & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge" alt="Talend"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ---
 
-## 🧠 Areas I Work With
+## 🧠 Core Areas
 
 <p align="center">
 
@@ -212,33 +211,12 @@ I also work with:
 `RAG & NLP` ·
 `SQL` ·
 `Database Systems` ·
-`REST APIs` ·
 `React` ·
 `Python Development` ·
 `Data Analytics` ·
-`Cloud Computing`
+`Distributed Systems`
 
 </p>
-
----
-
-## 📚 Currently Learning
-
-```text
-RAG & LLM Applications      ███████████████████░  90%
-Machine Learning            █████████████████░░░  85%
-React / Full Stack          ████████████████░░░░  80%
-Cloud Computing             █████████████░░░░░░░  65%
-System Design               ███████████░░░░░░░░░  55%
-```
-
----
-
-## 📄 Research
-
-### 📖 ICCICCT 2024
-
-Published a **peer-reviewed research paper** at the International Conference on Computer, Information and Communication Technology.
 
 ---
 
@@ -250,32 +228,59 @@ Published a **peer-reviewed research paper** at the International Conference on 
 
 Worked on a **PDF document processing and question-answering system** involving:
 
-* PDF parsing & document indexing
-* OCR for scanned documents
-* Full-text search
-* Semantic retrieval
-* RAG-based question answering
-* Page-level source attribution
+- 📄 PDF parsing and document indexing
+- 🔎 Full-text and semantic search
+- 🧾 OCR for scanned documents
+- 🤖 Retrieval-Augmented Generation
+- 📌 Page-level source attribution
+- 📝 Document summarization and question answering
+
+---
+
+## 📄 Research
+
+### 📖 ICCICCT 2024
+
+Published a **peer-reviewed research paper** at the International Conference on Computer, Information and Communication Technology.
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+🔹 Retrieval-Augmented Generation  
+🔹 LLM Applications  
+🔹 Machine Learning  
+🔹 React & Full-Stack Development  
+🔹 Advanced SQL & Databases  
+🔹 Data Structures & Algorithms  
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi13rawat&show_icons=true&theme=swift&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi13rawat&layout=compact&theme=swift&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aditi13rawat&show_icons=true&theme=swift&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi13rawat&layout=compact&theme=swift&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditi13rawat&theme=swift&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=aditi13rawat&theme=swift&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -283,15 +288,19 @@ Worked on a **PDF document processing and question-answering system** involving:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/aditi13rawat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aditirawat1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/aditi13rawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditi-rawat-666163297">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:aditirawat1302@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
 
 <p align="center">
