@@ -10,21 +10,24 @@
 <p align="center">
   <a href="https://github.com/aditi13rawat">
     <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://skillicons.dev/icons?i=github"
+      width="45"
       alt="GitHub"
     />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="45"
       alt="LinkedIn"
     />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:aditirawat1302@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://skillicons.dev/icons?i=gmail"
+      width="45"
       alt="Email"
     />
   </a>
