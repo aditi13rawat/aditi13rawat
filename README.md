@@ -26,12 +26,12 @@
 I enjoy building practical applications using **Python, React, Machine Learning, and data-driven technologies**.
 
 - 🏢 **Winter Trainee at ONGC** — Software Development
-- 🔭 Currently building a **PDF Question-Answering & RAG System**
+- 🔭 Currently working on a **PDF Question-Answering & RAG System**
 - 🤖 Interested in **Machine Learning, NLP & RAG**
 - 💻 Interested in **Software Development & Full-Stack Development**
 - 📊 Experience with **Data Analytics & Machine Learning**
 - 📄 Published a **peer-reviewed research paper at ICCICCT 2024**
-- 📫 **aditirawat1302@gmail.com**
+- 📫 Reach me at **aditirawat1302@gmail.com**
 
 ---
 
@@ -47,6 +47,7 @@ I enjoy building practical applications using **Python, React, Machine Learning,
 A document intelligence system that processes PDFs and answers questions using **hybrid retrieval**.
 
 **Features**
+
 - 🔍 SQLite FTS5 keyword search
 - 🧠 Semantic search
 - 📑 OCR for scanned PDFs
@@ -62,7 +63,7 @@ A document intelligence system that processes PDFs and answers questions using *
 <br>
 
 <a href="https://github.com/aditi13rawat/PDF-Parsing-System">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
@@ -74,6 +75,7 @@ A document intelligence system that processes PDFs and answers questions using *
 Machine-learning project that predicts Formula 1 Grand Prix winners using qualifying and historical race data.
 
 **Highlights**
+
 - 🏁 Qualifying-based features
 - 📊 Historical race data
 - 🤖 Machine learning prediction
@@ -87,7 +89,7 @@ Machine-learning project that predicts Formula 1 Grand Prix winners using qualif
 <br>
 
 <a href="https://github.com/aditi13rawat/F1-GP-WINNER-PREDICTION">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
@@ -103,6 +105,7 @@ Machine-learning project that predicts Formula 1 Grand Prix winners using qualif
 Machine-learning classification project using the **Wisconsin Diagnostic Breast Cancer dataset**.
 
 **Highlights**
+
 - Logistic Regression
 - ~93% test accuracy
 - Data preprocessing
@@ -117,7 +120,7 @@ Machine-learning classification project using the **Wisconsin Diagnostic Breast 
 <br>
 
 <a href="https://github.com/aditi13rawat/Breast-Cancer-Prediction">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </td>
@@ -135,7 +138,7 @@ A Python implementation exploring the **Chord Distributed Hash Table (DHT)** alg
 <br><br>
 
 <a href="https://github.com/aditi13rawat?tab=repositories">
-<img src="https://img.shields.io/badge/More_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects"/>
+  <img src="https://img.shields.io/badge/More_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects"/>
 </a>
 
 </td>
@@ -145,7 +148,7 @@ A Python implementation exploring the **Chord Distributed Hash Table (DHT)** alg
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -173,7 +176,7 @@ A Python implementation exploring the **Chord Distributed Hash Table (DHT)** alg
 ### 🗄️ Databases & SQL
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
 </p>
 
 <p>
@@ -260,45 +263,20 @@ Published a **peer-reviewed research paper** at the International Conference on 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aditi13rawat&show_icons=true&theme=swift&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi13rawat&layout=compact&theme=swift&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=aditi13rawat&theme=swift&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/aditi13rawat">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:aditirawat1302@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
