@@ -1,18 +1,32 @@
 <h1 align="center">Hi, I'm Aditi Rawat 👋</h1>
 
 <p align="center">
-  <strong>Software Developer · Python · React · Machine Learning</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Machine+Learning;Building+AI+%26+RAG+Applications+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80"
+    alt="Typing introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/aditi13rawat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:aditirawat1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -26,7 +40,7 @@
 I enjoy building practical applications using **Python, React, Machine Learning, and data-driven technologies**.
 
 - 🏢 **Winter Trainee at ONGC** — Software Development
-- 🔭 Currently working on a **PDF Question-Answering & RAG System**
+- 🔭 Currently building a **PDF Question-Answering & RAG System**
 - 🤖 Interested in **Machine Learning, NLP & RAG**
 - 💻 Interested in **Software Development & Full-Stack Development**
 - 📊 Experience with **Data Analytics & Machine Learning**
@@ -63,7 +77,10 @@ A document intelligence system that processes PDFs and answers questions using *
 <br>
 
 <a href="https://github.com/aditi13rawat/PDF-Parsing-System">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View PDF Parsing Project"
+  />
 </a>
 
 </td>
@@ -89,7 +106,10 @@ Machine-learning project that predicts Formula 1 Grand Prix winners using qualif
 <br>
 
 <a href="https://github.com/aditi13rawat/F1-GP-WINNER-PREDICTION">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View F1 Project"
+  />
 </a>
 
 </td>
@@ -120,7 +140,10 @@ Machine-learning classification project using the **Wisconsin Diagnostic Breast 
 <br>
 
 <a href="https://github.com/aditi13rawat/Breast-Cancer-Prediction">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Breast Cancer Project"
+  />
 </a>
 
 </td>
@@ -138,7 +161,10 @@ A Python implementation exploring the **Chord Distributed Hash Table (DHT)** alg
 <br><br>
 
 <a href="https://github.com/aditi13rawat?tab=repositories">
-  <img src="https://img.shields.io/badge/More_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="More Projects"/>
+  <img
+    src="https://img.shields.io/badge/More_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white"
+    alt="More Projects"
+  />
 </a>
 
 </td>
@@ -153,54 +179,105 @@ A Python implementation exploring the **Chord Distributed Hash Table (DHT)** alg
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" alt="Programming Languages"/>
+  <img
+    src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript"
+    alt="Programming Languages"
+  />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" alt="Frontend Development"/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"
+    alt="Frontend Technologies"
+  />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge" alt="Sentence Transformers"/>
-  <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge" alt="Tesseract OCR"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
+  <img
+    src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"
+    alt="Scikit-Learn"
+  />
+  <img
+    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+    alt="Pandas"
+  />
+  <img
+    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+    alt="NumPy"
+  />
+  <img
+    src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge"
+    alt="Sentence Transformers"
+  />
+  <img
+    src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"
+    alt="Tesseract OCR"
+  />
+  <img
+    src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"
+    alt="Ollama"
+  />
 </p>
 
 ### 🗄️ Databases & SQL
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
+  <img
+    src="https://skillicons.dev/icons?i=sqlite"
+    alt="SQLite"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite FTS5"/>
+  <img
+    src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"
+    alt="SQL"
+  />
+  <img
+    src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
+    alt="SQLite FTS5"
+  />
 </p>
 
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge" alt="Talend"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+  />
+  <img
+    src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+    alt="Tableau"
+  />
+  <img
+    src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge"
+    alt="Talend"
+  />
+  <img
+    src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+    alt="Jupyter"
+  />
 </p>
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Development Tools"
+  />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img
+    src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+    alt="Streamlit"
+  />
 </p>
 
 ---
@@ -268,15 +345,24 @@ Published a **peer-reviewed research paper** at the International Conference on 
 <p align="center">
 
 <a href="https://github.com/aditi13rawat">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/aditi-rawat-666163297">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:aditirawat1302@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>
